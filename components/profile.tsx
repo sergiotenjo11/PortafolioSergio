@@ -12,7 +12,7 @@ export default function Profile() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-full blur-2xl" />
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-primary/20 bg-gradient-to-br from-primary/10 to-accent/10 flex items-center justify-center">
                 <img
-                  src="/professional-portrait-young-marketing-student.jpg"
+                  src="/SegyT.jpeg"
                   alt="Sergio Alejandro Tenjo Morales"
                   className="w-full h-full object-cover"
                 />
